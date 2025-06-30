@@ -1,0 +1,24 @@
+source,target,weight
+Ambato,Guaranda,20.82
+Ambato,Riobamba,10.9
+Azogues,Cuenca,7.08
+Cuenca,Guayaquil,73.67
+Cuenca,Machala,85.3
+Esmeraldas,Manta,63.78
+Guaranda,Riobamba,14.15
+Guayaquil,Machala,25.85
+Guayaquil,Salinas,51.47
+Ibarra,Esmeraldas,107.0
+Ibarra,Quito,17.29
+Latacunga,Ambato,8.44
+Manta,Guayaquil,27.89
+Manta,Santo Domingo,44.88
+Manta,Salinas,43.69
+Portoviejo,Manta,7.88
+Quito,Esmeraldas,46.67
+Quito,Latacunga,16.64
+Quito,Santo Domingo,59.3
+Riobamba,Azogues,44.52
+Riobamba,Guayaquil,103.33
+Santo Domingo,Guayaquil,38.41
+Tulcán,Ibarra,25.22

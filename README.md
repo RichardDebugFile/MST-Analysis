@@ -1,0 +1,6 @@
+Pasos para la instalación:
+- Ambiente virtual: python -m venv .venv
+- Activar el ambiente vistual: .venv\Scripts\Activate.ps1
+- Instalar PIP: python -m pip install --upgrade pip 
+- Instalar librerías: pip install networkx matplotlib pandas
+- Ejecución: python mst_analysis.py edges.csv -o resultados
